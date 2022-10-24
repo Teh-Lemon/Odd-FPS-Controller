@@ -2,7 +2,6 @@
 // Based on: 
 // https://github.com/id-Software/Quake-III-Arena/blob/master/code/game/bg_pmove.c
 // https://github.com/ValveSoftware/source-sdk-2013/blob/56accfdb9c4abd32ae1dc26b2e4cc87898cf4dc1/sp/src/game/shared/gamemovement.cpp
-// TODO: input in update, set proper variables, variable jump height, crouching, sprinting
 
 // TehLemon 2017/11/29
 
